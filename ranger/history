@@ -1,0 +1,39 @@
+shell rm 08070787.pdf
+shell ll
+sort 
+shell less research-multi-core.pdf
+shell less 06802743.pdf
+shell rm 06776075.pdf
+shell rm 07272679.pdf
+shell cp CartaRecomendacion.docx CartaPeticion.docx
+shell rm CartaRecomendacion.docx CartaRecomendacion.pdf
+shell cp PAGOTARGETABANAMEX.pdf ~/Documents/viajeCorona/PAGOTARGETABANAMEX.pdf
+shell cp ViajeCorona.pdf ~/Documents/viajeCorona/ViajeCorona.pdf
+shel
+she
+shell cp youngTheGiant.jpg LosQueSeShippean2
+search /
+shell c[ flor.jpg LosQueSeShippean2
+shell cp flor.jpg LosQueSeShippean2
+shell mkdir Reporte3
+shell c
+shell mkdir Dipolo
+shell mv Dipolo.ipynb Dipolo
+shell rm example.png Datos.txt
+shell mv calculadoraCargas.jl Tareas
+shell mv Datos.txt Tareas
+shell mkdir CargasPuntuales
+shell mv calculadoraCargas.jl CargasPuntuales
+shell mv Datos.txt CargasPuntuales
+shell vim download_pix2pix_model.sh
+shell vim download_pix2pix_dataset.sh
+rename Deskto
+rename Algebra lineal avanzada
+shell rm lmao
+shell rm lmao.cpp
+find 
+shell 
+shell python3
+shell mkdir Tarea4
+shell cp Tarea3/panadero.cpp Tarea4/
+
